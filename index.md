@@ -1,4 +1,4 @@
 ## Brinvex
 Java Enterprise Application Development & Consulting 
 
-info@brinvex.com
+[info@brinvex.com](mailto:info@brinvex.com)
