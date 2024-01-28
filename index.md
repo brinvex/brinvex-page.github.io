@@ -1,4 +1,4 @@
-## Brinvex - Working Software Solutions
+## Brinvex - Working Solutions
 
 Led by an accomplished Java Developer with over 15 years of expertise, Brinvex is dedicated to delivering streamlined solutions built on modern, mature, and powerful technologies like 
 _Java, JakartaEE, Spring, Hibernate, Kafka, Vaadin, Postgres_ and many more.
