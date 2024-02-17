@@ -11,4 +11,4 @@ We are currently open for new projects and welcome you to connect with us. Disco
 
 - Public projects: [https://github.com/brinvex](https://github.com/brinvex)
 
-- Founder profile: [https://github.com/brinvex-lukas](https://github.com/brinvex-lukas)
+- Founder: [https://github.com/brinvex-lukas](https://github.com/brinvex-lukas)
