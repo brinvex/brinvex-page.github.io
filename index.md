@@ -1,14 +1,18 @@
-## Brinvex - Working IT Solutions
+## Brinvex 
+> A machine I wish I had when I made my first trade on the stock market.
+> <br/>A machine bringing results.
+> <br/>A machine we are proud of.
 
-Led by an accomplished Java Developer with over 15 years of expertise, Brinvex is dedicated to delivering streamlined solutions built on modern, mature, and powerful technologies like 
-_Java, JakartaEE, Spring, Hibernate, Kafka, Postgres, Vaadin_.
+<br/>
 
-We are currently open for new projects and welcome you to connect with us. Discover how Brinvex can elevate your projects with a commitment to results that are purposeful, efficient, and maintainable.
+- learned from the history, helps to understand the present and bet on the future
+- powerful and lightweight
+- fast and accurate
+- driven by the data and powered by stable technologies _Java, Spring, Hibernate, Kafka, Caffeine Cache, Postgresql, Excel, Docker_
 
-- Email: [info@brinvex.com](mailto:info@brinvex.com)
+<br/>
 
-- Home page: [https://brinvex.com](https://brinvex.com)
-
-- Public projects: [https://github.com/brinvex](https://github.com/brinvex)
-
-- Founder: [https://github.com/brinvex-lukas](https://github.com/brinvex-lukas)
+<br/> [info@brinvex.com](mailto:info@brinvex.com)
+<br/> [https://brinvex.com](https://brinvex.com)
+<br/> [https://github.com/brinvex](https://github.com/brinvex)
+<br/> [https://github.com/brinvex-lukas](https://github.com/brinvex-lukas)
