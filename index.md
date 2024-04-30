@@ -1,16 +1,11 @@
 ## Brinvex 
-> A machine I wish I had when I made my first trade on the stock market.
-> <br/>A machine bringing results.
-> <br/>A machine we are proud of.
-
-<br/>
+> A machine I wish I had when I made my first trade on the stock market. A machine we are proud of.
 
 - learned from the history, helps to understand the present and bet on the future
 - powerful and lightweight
 - fast and accurate
-- driven by the data and powered by stable technologies _Java, Spring, Hibernate, Kafka, Caffeine Cache, Postgresql, Excel, Docker_
-
-<br/>
+- open to new ideas and bringing results
+- driven by data and powered by stable technologies _Java, Spring, Hibernate, Kafka, Caffeine Cache, Postgresql, Excel, Docker_
 
 <br/> [info@brinvex.com](mailto:info@brinvex.com)
 <br/> [https://brinvex.com](https://brinvex.com)
