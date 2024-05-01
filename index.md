@@ -1,5 +1,7 @@
 ## Brinvex 
-> A machine I wish I had when I made my first trade on the stock market. A machine helping individual investors. A machine we are proud of.
+> A machine I wish I had when I made my first trade on the stock market.
+> <br/>A machine helping individual investors.
+> <br/>A machine we are proud of.
 
 - learned from the history, helps to understand the present and bet on the better future
 - powerful and lightweight
