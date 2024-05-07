@@ -12,4 +12,3 @@
 <br/> [info@brinvex.com](mailto:info@brinvex.com)
 <br/> [https://brinvex.com](https://brinvex.com)
 <br/> [https://github.com/brinvex](https://github.com/brinvex)
-<br/> [https://github.com/brinvex-lukas](https://github.com/brinvex-lukas)
