@@ -1,6 +1,6 @@
 ## Brinvex 
 
-**A Machine for Individual Long-Term Investors**
+**A Machine for Individual Investors**
 
 - **Focused on Financial Markets:** Designed to enhance your effectiveness in financial management.
 
