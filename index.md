@@ -1,14 +1,16 @@
 ## Brinvex 
-> A machine I wish I had when I made my first trade on the stock market.
 
-- learned from the history, helps to understand the present and bet on the better future
-- developed with _Mathematics_, _Finance_, _Computer Science_ and _Artificial Intelligence_ techniques in mind
-- powerful and lightweight
-- fast and accurate
-- open to new ideas and bringing results
-- driven by data and powered by the greatest technologies _Java, Spring, Hibernate, Kafka, Caffeine Cache, Postgresql, Excel, Docker_
-- helping individual investors
+**A Machine for Individual Long-Term Investors**
 
-<br/> [info@brinvex.com](mailto:info@brinvex.com)
-<br/> [https://brinvex.com](https://brinvex.com)
-<br/> [https://github.com/brinvex](https://github.com/brinvex)
+- **Focused on Financial Markets:** Designed to enhance your effectiveness in financial management.
+
+- **Data-Centric:** Utilizes powerful data analysis for smart decision-making.
+
+- **Powerful and Simple:** Integrates sophisticated capabilities with straightforward usability.
+
+- **Extensible:** Built to grow, adaptable to future needs.
+
+
+[info@brinvex.com](mailto:info@brinvex.com)
+<br/>[https://brinvex.com](https://brinvex.com)
+<br/>[https://github.com/brinvex](https://github.com/brinvex)
